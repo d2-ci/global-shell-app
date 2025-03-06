@@ -3,7 +3,7 @@
   "name": "global-app-shell",
   "title": "Global Shell",
   "direction": "auto",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "description": "",
   "entryPoints": {
     "app": "index.html"

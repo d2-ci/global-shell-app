@@ -1,6 +1,6 @@
 {
   "appType": "APP",
-  "short_name": "global-app-shell",
+  "short_name": "global-shell",
   "name": "Global Shell",
   "description": "",
   "version": "1.6.0",
@@ -14,7 +14,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon Mar 17 2025 19:53:09 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Mon Mar 17 2025 21:11:25 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"

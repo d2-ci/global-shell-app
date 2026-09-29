@@ -1,0 +1,13 @@
+{
+  "id": "3491d347-bc0c-4eea-8412-1670607fd3f7",
+  "type": "app",
+  "name": "global-shell",
+  "title": "Global Shell",
+  "minDHIS2Version": "2.42",
+  "direction": "auto",
+  "version": "1.12.4",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
